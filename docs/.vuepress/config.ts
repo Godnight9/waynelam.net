@@ -33,7 +33,6 @@ export default defineUserConfig({
     lastUpdated: {
       formatOptions: {
         forceLocale: true,
-        timeStyle: 'long'
       },
     },
 
@@ -162,17 +161,17 @@ export default defineUserConfig({
        * 评论 comments
        * @see https://theme-plume.vuejs.press/guide/features/comments/
        */
-      // comment: {
-      //   provider: '', // "Artalk" | "Giscus" | "Twikoo" | "Waline"
-      //   comment: true,
-      //   repo: '',
-      //   repoId: '',
-      //   category: '',
-      //   categoryId: '',
-      //   mapping: 'pathname',
-      //   reactionsEnabled: true,
-      //   inputPosition: 'top',
-      // },
+      comment: {
+        provider: 'Giscus', // "Artalk" | "Giscus" | "Twikoo" | "Waline"
+        comment: true,
+        repo: 'godnight9/waynelam.net',
+        repoId: 'R_kgDONwMRbg',
+        category: 'Announcements',
+        categoryId: 'DIC_kwDONwMRbs4CmYQr',
+        mapping: 'pathname',
+        reactionsEnabled: true,
+        inputPosition: 'top',
+      },
     },
 
     /**
