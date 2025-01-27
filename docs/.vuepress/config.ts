@@ -28,8 +28,10 @@ export default defineUserConfig({
     /* 页内信息 */
     // editLink: true,
     // lastUpdated: true,
-    contributors: true,
-    // changelog: false,
+    contributors: {
+      mode: 'block',
+    },
+    changelog: true,
     lastUpdated: {
       formatOptions: {
         timeStyle: 'long'
