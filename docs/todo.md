@@ -1,9 +1,12 @@
 ---
 title: To-Do List
 permalink: /todo/
+pageLayout: null
 aside: false
 readingTime: false
 article: false
+contributors: false
+copyright: false
 createTime: 2025/01/27 19:39:44
 ---
 

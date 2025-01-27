@@ -18,7 +18,7 @@ export default defineUserConfig({
 
   theme: plumeTheme({
     /* 添加您的部署域名, 有助于 SEO, 生成 sitemap */
-    // hostname: 'https://your_site_url',
+    hostname: 'https://waynelam.net',
 
     /* 文档仓库配置，用于 editLink */
     // docsRepo: '',
@@ -35,11 +35,11 @@ export default defineUserConfig({
           username: 'godnight9',
           name: 'Wayne Lam',
           alias: ['Wayne Lam'],
-          url: 'https://waynelam.net',
+          avatar: '/logo/logo.svg'
         },
       ],
     },
-    changelog: true,
+    // changelog: false,
     lastUpdated: {
       formatOptions: {
         timeStyle: 'full'
