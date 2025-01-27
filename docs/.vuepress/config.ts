@@ -32,7 +32,8 @@ export default defineUserConfig({
     // changelog: false,
     lastUpdated: {
       formatOptions: {
-        forceLocale: true,
+        timeStyle: 'medium'
+        
       },
     },
 
@@ -169,8 +170,9 @@ export default defineUserConfig({
         category: 'Announcements',
         categoryId: 'DIC_kwDONwMRbs4CmYQr',
         mapping: 'pathname',
-        reactionsEnabled: true,
+        reactionsEnabled: false,
         inputPosition: 'top',
+        darkTheme: 'transparent_dark',
       },
     },
 
