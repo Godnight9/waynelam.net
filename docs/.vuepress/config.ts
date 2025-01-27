@@ -32,7 +32,8 @@ export default defineUserConfig({
     // changelog: false,
     lastUpdated: {
       formatOptions: {
-        hour12: false,
+        forceLocale: true,
+        timeStyle: 'long'
       },
     },
 
