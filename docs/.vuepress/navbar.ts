@@ -29,7 +29,12 @@ export const navbar = defineNavbarConfig([
   {
     text: 'To-Do',
     icon: 'fluent:clipboard-task-list-24-regular',
-    link: '/blog/todo/',
+    link: '/todo/',
+  },
+  {
+    text: 'Discussions',
+    icon: 'fluent:chat-multiple-24-regular',
+    link: '/discussions/',
   },
   {
     text: 'Notes',

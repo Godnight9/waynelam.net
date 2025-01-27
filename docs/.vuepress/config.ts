@@ -164,7 +164,7 @@ export default defineUserConfig({
        */
       comment: {
         provider: 'Giscus', // "Artalk" | "Giscus" | "Twikoo" | "Waline"
-        comment: true,
+        comment: false,
         repo: 'godnight9/waynelam.net',
         repoId: 'R_kgDONwMRbg',
         category: 'Announcements',

@@ -1,10 +1,9 @@
 ---
 title: To-Do List
-permalink: /blog/todo/
+permalink: /todo/
 aside: false
 readingTime: false
 article: false
-comments: false
 createTime: 2025/01/27 19:39:44
 ---
 
