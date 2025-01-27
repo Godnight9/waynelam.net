@@ -30,12 +30,19 @@ export default defineUserConfig({
     // lastUpdated: true,
     contributors: {
       mode: 'block',
+      info: [
+        {
+          username: 'godnight9',
+          name: 'Wayne Lam',
+          alias: ['Wayne Lam'],
+          url: 'https://waynelam.net',
+        },
+      ],
     },
     changelog: true,
     lastUpdated: {
       formatOptions: {
-        timeStyle: 'long'
-        
+        timeStyle: 'full'
       },
     },
 
