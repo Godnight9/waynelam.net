@@ -30,6 +30,11 @@ export default defineUserConfig({
     // lastUpdated: true,
     // contributors: true,
     // changelog: false,
+    lastUpdated: {
+      formatOptions: {
+        hour12: false,
+      },
+    },
 
     /**
      * 博客
