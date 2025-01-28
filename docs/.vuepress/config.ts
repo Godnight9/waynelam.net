@@ -35,7 +35,8 @@ export default defineUserConfig({
           username: 'godnight9',
           name: 'Wayne Lam',
           alias: ['Wayne Lam'],
-          avatar: '/logo/logo.svg'
+          avatar: '/logo/logo.svg',
+          url: "https://waynelam.net/",
         },
       ],
     },
