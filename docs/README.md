@@ -14,7 +14,7 @@ config:
     hero:
       name: Wayne Lam
       tagline: TO INFINITY AND BEYOND.
-      text: A personal website with blog, notes and everything I wanna write down & post.[WIP]
+      text: A personal website with blog, notes and everything I wanna write down & post. [WIP]
       actions:
         -
           theme: brand
@@ -22,6 +22,6 @@ config:
           link: /blog/
         -
           theme: alt
-          text: Github →
-          link: https://github.com/godnight9
+          text: Aboutme →
+          link: /aboutme/
 ---

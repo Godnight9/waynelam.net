@@ -30,6 +30,11 @@ export const navbar = defineNavbarConfig([
         icon: 'fluent:archive-24-regular',
         link: '/blog/archives/',
       },
+      {
+        text: 'Aboutme',
+        icon: 'fluent:info-24-regular',
+        link: '/aboutme/',
+      },
     ],
   },
   {
