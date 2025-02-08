@@ -3,7 +3,7 @@ title: Markdown
 tags:
   - markdown
 createTime: 2025/01/26 23:03:04
-permalink: /article/4tor5kvm/
+permalink: /vuepress/4tor5kvm/
 ---
 
 ## 标题 2

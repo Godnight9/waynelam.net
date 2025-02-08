@@ -4,7 +4,7 @@ tags:
   - 预览
   - 组件
 createTime: 2025/01/26 23:03:04
-permalink: /article/qhatq1oq/
+permalink: /vuepress/qhatq1oq/
 ---
 
 <CustomComponent />

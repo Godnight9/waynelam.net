@@ -6,8 +6,14 @@ const demoNote = defineNoteConfig({
   sidebar: ['', 'foo', 'bar'],
 })
 
+const vuepressNote = defineNoteConfig({
+  dir: 'vuepress',
+  link: '/vuepress',
+  sidebar: 'auto',
+})
+
 export const notes = defineNotesConfig({
   dir: 'notes',
   link: '/',
-  notes: [demoNote],
+  notes: [demoNote, vuepressNote],
 })
