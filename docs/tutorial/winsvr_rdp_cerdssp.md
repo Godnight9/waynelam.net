@@ -1,5 +1,8 @@
 ---
 title: 新版本系统无法连接至全新安装的 Windows Server 2012 R2 问题修复
+badge: 
+  text: Outdated
+  type: 'info'
 tags:
   - Windows
   - Server
@@ -8,6 +11,12 @@ tags:
 createTime: 2025/02/07 20:43:24
 permalink: /article/wvn4249v/
 ---
+
+::: info Outdated
+
+本文所涉及内容可能已经过时，仅供参考，不建议在生产环境中使用。
+
+:::
 
 ## 问题出现
 
