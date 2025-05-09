@@ -11,6 +11,14 @@ export default defineUserConfig({
   head: [
     // 配置站点图标
     ['link', { rel: 'icon', type: 'image/x-icon', href: '/logo/logo.ico' }],
+    // ['link', { rel: 'stylesheet', type: 'text/css', href: 'https://cdn.jsdelivr.net/npm/hanamin/HanaMin.min.css' }],
+    ['link', { rel: 'stylesheet', type: 'text/css', href: 'https://cdn.jsdelivr.net/npm/@fontsource/noto-sans-hk@5.2.5/index.min.css' }],
+    ['link', { rel: 'stylesheet', type: 'text/css', href: 'https://cdn.jsdelivr.net/npm/@fontsource/noto-sans-tc@5.2.5/index.min.css' }],
+    ['link', { rel: 'stylesheet', type: 'text/css', href: 'https://cdn.jsdelivr.net/npm/@fontsource/noto-sans-sc@5.2.5/index.min.css' }],
+    ['link', { rel: 'stylesheet', type: 'text/css', href: 'https://cdn.jsdelivr.net/npm/@fontsource/noto-sans-jp@5.2.5/index.min.css' }],
+    ['link', { rel: 'stylesheet', type: 'text/css', href: 'https://cdn.jsdelivr.net/npm/@fontsource/noto-sans-kr@5.2.5/index.min.css' }],
+    ['link', { rel: 'stylesheet', type: 'text/css', href: 'https://cdn.jsdelivr.net/npm/@fontsource/noto-sans@5.2.7/index.min.css' }],
+    ['link', { rel: 'stylesheet', type: 'text/css', href: '/style/fontload.css' }]
   ],
 
   bundler: viteBundler(),
@@ -114,12 +122,12 @@ export default defineUserConfig({
        * markdown enhance
        * @see https://theme-plume.vuejs.press/config/plugins/markdown-enhance/
        */
-      // markdownEnhance: {
-      //   chartjs: true,
-      //   echarts: true,
-      //   mermaid: true,
-      //   flowchart: true,
-      // },
+      markdownEnhance: {
+        //   chartjs: true,
+        //   echarts: true,
+        mermaid: true,
+        //   flowchart: true,
+      },
 
       /**
        *  markdown power

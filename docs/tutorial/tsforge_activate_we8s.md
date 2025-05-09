@@ -4,14 +4,13 @@ tags:
   - Windows
   - Embedded
   - Activate
-  - zh-CN
 createTime: 2025/02/17 23:08:54
 permalink: /article/j0zgus80/
 ---
 
 ::: info Attention
 
-本文所涉及内容包含系统激活相关内容，请注意潜在的法律风险。
+本文所涉及内容包含破解和激活相关内容，可能有潜在的法律风险。
 
 :::
 

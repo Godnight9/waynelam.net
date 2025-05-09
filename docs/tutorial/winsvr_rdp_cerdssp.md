@@ -6,15 +6,13 @@ badge:
 tags:
   - Windows
   - Server
-  - RDP
-  - zh-CN
 createTime: 2025/02/07 20:43:24
 permalink: /article/wvn4249v/
 ---
 
 ::: info Outdated
 
-本文所涉及内容可能已经过时，仅供参考，不建议在生产环境中使用。
+本文所涉及内容可能已经过时或不安全，仅供参考，不建议在生产环境中使用。
 
 :::
 

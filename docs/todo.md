@@ -12,6 +12,7 @@ copyright: false
 - [x] 迁移至 Vuepress
 - [x] 接入 Giscus 并修改样式
 - [x] 创建 Aboutme 页面
-- [ ] 修复页面滚动 Bug
+- [x] 修复页面滚动 Bug
+- [x] 自定义页面字体
 - [ ] 将原 Blog 内容迁移至新 Blog
 

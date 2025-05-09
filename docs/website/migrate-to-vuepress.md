@@ -5,7 +5,6 @@ permalink: /article/phboltk7/
 tags:
   - Vuepress
   - waynelam.net
-  - zh-TW
 sticky: true
 ---
 
